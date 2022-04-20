@@ -8,7 +8,6 @@ public class Firstclass {
         System.out.println("Hi colleagues");
         System.out.println("Learning Git");
         System.out.println("First amend");
-        System.out.println("Try first amend");
 
     }
 }
